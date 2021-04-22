@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-04-22T02:16:06.363Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36" etag="ted7ImPtehJjg6qRpMm7" version="14.6.5" type="github">
+<mxfile host="app.diagrams.net" modified="2021-04-22T02:18:54.053Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36" etag="gBewsqZwo_X1FDAw1M9Y" version="14.6.5" type="github">
   <diagram name="Page-1" id="55a83fd1-7818-8e21-69c5-c3457e3827bb">
     <mxGraphModel dx="303" dy="150" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
       <root>
@@ -292,9 +292,7 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="894" y="643" />
-              <mxPoint x="950" y="643" />
-              <mxPoint x="950" y="620" />
-              <mxPoint x="964" y="620" />
+              <mxPoint x="984" y="643" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -306,19 +304,19 @@
             <mxPoint x="986" y="630" as="targetPoint" />
             <Array as="points">
               <mxPoint x="1000" y="630" />
-              <mxPoint x="964" y="630" />
+              <mxPoint x="984" y="630" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="n9olnESUbjl3bB3hCqBm-74" value="" style="outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#277116;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.lightbulb;" vertex="1" parent="1">
           <mxGeometry x="962" y="747.5" width="48" height="48" as="geometry" />
         </mxCell>
-        <mxCell id="n9olnESUbjl3bB3hCqBm-91" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="n9olnESUbjl3bB3hCqBm-75" target="n9olnESUbjl3bB3hCqBm-85">
+        <mxCell id="n9olnESUbjl3bB3hCqBm-91" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="n9olnESUbjl3bB3hCqBm-75" target="n9olnESUbjl3bB3hCqBm-85">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="964" y="620" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="1030" y="620" />
-              <mxPoint x="964" y="620" />
+              <mxPoint x="1030" y="630" />
+              <mxPoint x="984" y="630" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -346,10 +344,11 @@
         <mxCell id="n9olnESUbjl3bB3hCqBm-84" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="n9olnESUbjl3bB3hCqBm-83" target="69ecfefc5c41e42c-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="n9olnESUbjl3bB3hCqBm-86" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="n9olnESUbjl3bB3hCqBm-81">
+        <mxCell id="n9olnESUbjl3bB3hCqBm-86" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;" edge="1" parent="1" target="n9olnESUbjl3bB3hCqBm-81">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="964" y="620" as="sourcePoint" />
+            <mxPoint x="984" y="630" as="sourcePoint" />
             <Array as="points">
+              <mxPoint x="984" y="620" />
               <mxPoint x="860" y="620" />
             </Array>
           </mxGeometry>
@@ -357,14 +356,23 @@
         <mxCell id="n9olnESUbjl3bB3hCqBm-83" value="" style="outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#277116;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.iot_analytics_channel;" vertex="1" parent="1">
           <mxGeometry x="945" y="522" width="65" height="78" as="geometry" />
         </mxCell>
-        <mxCell id="n9olnESUbjl3bB3hCqBm-85" value="2.4 IOT Guest Network" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="894" y="590" width="140" height="20" as="geometry" />
-        </mxCell>
         <mxCell id="n9olnESUbjl3bB3hCqBm-87" value="Pams Humidifier" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="815" y="824" width="100" height="20" as="geometry" />
         </mxCell>
         <mxCell id="n9olnESUbjl3bB3hCqBm-92" value="Pams&lt;br style=&quot;font-size: 11px;&quot;&gt;Desk" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;fontSize=11;" vertex="1" parent="1">
           <mxGeometry x="870" y="713.5" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="n9olnESUbjl3bB3hCqBm-93" value="Pams&lt;br style=&quot;font-size: 11px&quot;&gt;Lamp" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;fontSize=11;" vertex="1" parent="1">
+          <mxGeometry x="914" y="757.5" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="n9olnESUbjl3bB3hCqBm-94" value="Mystery Man&lt;br&gt;Lamp" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;fontSize=11;" vertex="1" parent="1">
+          <mxGeometry x="946" y="797.5" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="n9olnESUbjl3bB3hCqBm-95" value="Lamp&lt;br&gt;&quot;living-room&quot;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;fontSize=11;" vertex="1" parent="1">
+          <mxGeometry x="1004" y="820" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="n9olnESUbjl3bB3hCqBm-85" value="2.4MHz IOT/Guest Network" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="904" y="600" width="160" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
